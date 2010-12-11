@@ -1,16 +1,16 @@
-[31mAboutAsserts#test_assert_truth has damaged your karma.[0m
+[31mAboutAsserts#test_assert_with_message has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
 [36m  Do not lose hope.[0m
 
 The answers you seek...
-[31m  <false> is not true.[0m
+[31m  This should be true -- Please fix this.  <false> is not true.[0m
 
 Please meditate on the following code:
-[31m  ./about_asserts.rb:10:in `test_assert_truth'[0m
+[31m  ./about_asserts.rb:16:in `test_assert_with_message'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mmountains are merely mountains[0m
-[32myour path thus far [[0m[32m[0m[31mX[0m[36m_________________________________________________[0m[32m][0m 0/269
+[32mlearn the rules so you know how to break them properly[0m
+[32myour path thus far [[0m[32m.[0m[31mX[0m[36m________________________________________________[0m[32m][0m 1/269
