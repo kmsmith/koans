@@ -1,4 +1,4 @@
-[31mAboutAsserts#test_a_better_way_of_asserting_equality has damaged your karma.[0m
+[31mAboutAsserts#test_fill_in_values has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
@@ -8,9 +8,9 @@ The answers you seek...
 [31m  <"FILL ME IN"> expected but was  <2>.[0m
 
 Please meditate on the following code:
-[31m  ./about_asserts.rb:33:in `test_a_better_way_of_asserting_equality'[0m
+[31m  ./about_asserts.rb:38:in `test_fill_in_values'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
 [32mremember that silence is sometimes the best answer[0m
-[32myour path thus far [[0m[32m.[0m[31mX[0m[36m________________________________________________[0m[32m][0m 3/269
+[32myour path thus far [[0m[32m.[0m[31mX[0m[36m________________________________________________[0m[32m][0m 4/269
