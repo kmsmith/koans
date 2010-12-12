@@ -2,13 +2,13 @@
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  Do not lose hope.[0m
+[36m  I sense frustration. Do not be afraid to ask for help.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <NoMethodError>.[0m
+[31m  <"undefined method `some_method_nil_doesnt_know_about' for nil:NilClass"> expected to be =~  </__/>.[0m
 
 Please meditate on the following code:
-[31m  ./about_nil.rb:16:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'[0m
+[31m  ./about_nil.rb:20:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
