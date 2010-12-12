@@ -1,16 +1,16 @@
-[31mAboutNil#test_nil_is_an_object has damaged your karma.[0m
+[31mAboutNil#test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
 [36m  Do not lose hope.[0m
 
 The answers you seek...
-[31m  Unlike NULL in other languages.  <"FILL ME IN"> expected but was  <true>.[0m
+[31m  <"FILL ME IN"> expected but was  <NoMethodError>.[0m
 
 Please meditate on the following code:
-[31m  ./about_nil.rb:5:in `test_nil_is_an_object'[0m
+[31m  ./about_nil.rb:16:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
 [32msleep is the best meditation[0m
-[32myour path thus far [[0m[32m.[0m[31mX[0m[36m________________________________________________[0m[32m][0m 5/269
+[32myour path thus far [[0m[32m.[0m[31mX[0m[36m________________________________________________[0m[32m][0m 6/269
