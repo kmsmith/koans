@@ -1,4 +1,4 @@
-[31mAboutNil#test_nil_has_a_few_methods_defined_on_it has damaged your karma.[0m
+[31mAboutObjects#test_everything_is_an_object has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
@@ -8,9 +8,9 @@ The answers you seek...
 [31m  <"FILL ME IN"> expected but was  <true>.[0m
 
 Please meditate on the following code:
-[31m  ./about_nil.rb:25:in `test_nil_has_a_few_methods_defined_on_it'[0m
+[31m  ./about_objects.rb:5:in `test_everything_is_an_object'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
 [32mwhen you lose, don't lose the lesson[0m
-[32myour path thus far [[0m[32m.[0m[31mX[0m[36m________________________________________________[0m[32m][0m 7/269
+[32myour path thus far [[0m[32m.[0m[31mX[0m[36m________________________________________________[0m[32m][0m 8/269
