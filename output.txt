@@ -1,4 +1,4 @@
-[31mAboutObjects#test_objects_can_be_converted_to_strings has damaged your karma.[0m
+[31mAboutObjects#test_objects_can_be_inspected has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
@@ -8,9 +8,9 @@ The answers you seek...
 [31m  <"FILL ME IN"> expected but was  <"123">.[0m
 
 Please meditate on the following code:
-[31m  ./about_objects.rb:13:in `test_objects_can_be_converted_to_strings'[0m
+[31m  ./about_objects.rb:18:in `test_objects_can_be_inspected'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mthings are not what they appear to be: nor are they otherwise[0m
-[32myour path thus far [[0m[32m.[0m[31mX[0m[36m________________________________________________[0m[32m][0m 9/269
+[32mmountains are merely mountains[0m
+[32myour path thus far [[0m[32m.[0m[31mX[0m[36m________________________________________________[0m[32m][0m 10/269
