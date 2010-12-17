@@ -1,17 +1,17 @@
-[32mAboutArrayAssignment#test_parallel_assignments has expanded your awareness.[0m
-[31mAboutArrayAssignment#test_parallel_assignments_with_extra_values has damaged your karma.[0m
+[32mAboutArrayAssignment#test_parallel_assignments_with_extra_values has expanded your awareness.[0m
+[31mAboutArrayAssignment#test_parallel_assignments_with_splat_operator has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 26 completed.[0m
+[36m  You are progressing. Excellent. 27 completed.[0m
 
 The answers you seek...
 [31m  <"FILL ME IN"> expected but was  <"John">.[0m
 
 Please meditate on the following code:
-[31m  ./about_array_assignment.rb:17:in `test_parallel_assignments_with_extra_values'[0m
+[31m  ./about_array_assignment.rb:23:in `test_parallel_assignments_with_splat_operator'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32msleep is the best meditation[0m
-[32myour path thus far [[0m[32m....[0m[31mX[0m[36m_____________________________________________[0m[32m][0m 26/269
+[32mwhen you lose, don't lose the lesson[0m
+[32myour path thus far [[0m[32m.....[0m[31mX[0m[36m____________________________________________[0m[32m][0m 27/269
