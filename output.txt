@@ -1,16 +1,16 @@
-[31mAboutArrays#test_array_literals has damaged your karma.[0m
+[31mAboutArrays#test_accessing_array_elements has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
 [36m  Do not lose hope.[0m
 
 The answers you seek...
-[31m  <[1, "FILL ME IN"]> expected but was  <[1, 2]>.[0m
+[31m  <"FILL ME IN"> expected but was  <:peanut>.[0m
 
 Please meditate on the following code:
-[31m  ./about_arrays.rb:18:in `test_array_literals'[0m
+[31m  ./about_arrays.rb:27:in `test_accessing_array_elements'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
 [32mwhen you lose, don't lose the lesson[0m
-[32myour path thus far [[0m[32m...[0m[31mX[0m[36m______________________________________________[0m[32m][0m 17/269
+[32myour path thus far [[0m[32m...[0m[31mX[0m[36m______________________________________________[0m[32m][0m 18/269
