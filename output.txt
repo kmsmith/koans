@@ -1,17 +1,17 @@
-[32mAboutArrayAssignment#test_parallel_assignments_with_splat_operator has expanded your awareness.[0m
-[31mAboutArrayAssignment#test_parallel_assignments_with_too_few_variables has damaged your karma.[0m
+[32mAboutArrayAssignment#test_parallel_assignments_with_too_few_variables has expanded your awareness.[0m
+[31mAboutArrayAssignment#test_parallel_assignments_with_subarrays has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 28 completed.[0m
+[36m  You are progressing. Excellent. 29 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <"Cher">.[0m
+[31m  <"FILL ME IN"> expected but was  <["Willie", "Rae"]>.[0m
 
 Please meditate on the following code:
-[31m  ./about_array_assignment.rb:29:in `test_parallel_assignments_with_too_few_variables'[0m
+[31m  ./about_array_assignment.rb:35:in `test_parallel_assignments_with_subarrays'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mwhen you lose, don't lose the lesson[0m
-[32myour path thus far [[0m[32m.....[0m[31mX[0m[36m____________________________________________[0m[32m][0m 28/269
+[32mthings are not what they appear to be: nor are they otherwise[0m
+[32myour path thus far [[0m[32m.....[0m[31mX[0m[36m____________________________________________[0m[32m][0m 29/269
