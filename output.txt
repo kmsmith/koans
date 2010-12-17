@@ -1,16 +1,16 @@
-[31mAboutObjects#test_every_object_has_different_id has damaged your karma.[0m
+[31mAboutObjects#test_some_system_objects_always_have_the_same_id has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
 [36m  Do not lose hope.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <true>.[0m
+[31m  <"FILL ME IN"> expected but was  <0>.[0m
 
 Please meditate on the following code:
-[31m  ./about_objects.rb:30:in `test_every_object_has_different_id'[0m
+[31m  ./about_objects.rb:34:in `test_some_system_objects_always_have_the_same_id'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mlearn the rules so you know how to break them properly[0m
-[32myour path thus far [[0m[32m..[0m[31mX[0m[36m_______________________________________________[0m[32m][0m 12/269
+[32mremember that silence is sometimes the best answer[0m
+[32myour path thus far [[0m[32m..[0m[31mX[0m[36m_______________________________________________[0m[32m][0m 13/269
