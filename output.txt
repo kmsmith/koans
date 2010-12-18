@@ -1,17 +1,17 @@
-[32mAboutStrings#test_the_shovel_operator_will_also_append_content_to_a_string has expanded your awareness.[0m
-[31mAboutStrings#test_the_shovel_operator_modifies_the_original_string has damaged your karma.[0m
+[32mAboutStrings#test_the_shovel_operator_modifies_the_original_string has expanded your awareness.[0m
+[31mAboutStrings#test_double_quoted_string_interpret_escape_characters has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 53 completed.[0m
+[36m  You are progressing. Excellent. 54 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <"Hello, World">.[0m
+[31m  <"FILL ME IN"> expected but was  <1>.[0m
 
 Please meditate on the following code:
-[31m  ./about_strings.rb:95:in `test_the_shovel_operator_modifies_the_original_string'[0m
+[31m  ./about_strings.rb:105:in `test_double_quoted_string_interpret_escape_characters'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
 [32mremember that silence is sometimes the best answer[0m
-[32myour path thus far [[0m[32m.........[0m[31mX[0m[36m________________________________________[0m[32m][0m 53/269
+[32myour path thus far [[0m[32m..........[0m[31mX[0m[36m_______________________________________[0m[32m][0m 54/269
