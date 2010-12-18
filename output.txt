@@ -1,17 +1,17 @@
-[32mAboutStrings#test_single_quotes_sometimes_interpret_escape_characters has expanded your awareness.[0m
-[31mAboutStrings#test_double_quoted_strings_interpolate_variables has damaged your karma.[0m
+[32mAboutStrings#test_double_quoted_strings_interpolate_variables has expanded your awareness.[0m
+[31mAboutStrings#test_single_quoted_strings_do_not_interpolate has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 57 completed.[0m
+[36m  You are progressing. Excellent. 58 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <"The value is 123">.[0m
+[31m  <"FILL ME IN"> expected but was  <"The value is \#{value}">.[0m
 
 Please meditate on the following code:
-[31m  ./about_strings.rb:122:in `test_double_quoted_strings_interpolate_variables'[0m
+[31m  ./about_strings.rb:128:in `test_single_quoted_strings_do_not_interpolate'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
 [32mwhen you lose, don't lose the lesson[0m
-[32myour path thus far [[0m[32m..........[0m[31mX[0m[36m_______________________________________[0m[32m][0m 57/269
+[32myour path thus far [[0m[32m..........[0m[31mX[0m[36m_______________________________________[0m[32m][0m 58/269
