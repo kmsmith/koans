@@ -1,17 +1,17 @@
-[32mAboutHashes#test_accessing_hashes has expanded your awareness.[0m
-[31mAboutHashes#test_changing_hashes has damaged your karma.[0m
+[32mAboutHashes#test_changing_hashes has expanded your awareness.[0m
+[31mAboutHashes#test_hash_is_unordered has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 35 completed.[0m
+[36m  You are progressing. Excellent. 36 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <false>.[0m
+[31m  <"FILL ME IN"> expected but was  <true>.[0m
 
 Please meditate on the following code:
-[31m  ./about_hashes.rb:28:in `test_changing_hashes'[0m
+[31m  ./about_hashes.rb:38:in `test_hash_is_unordered'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
 [32msleep is the best meditation[0m
-[32myour path thus far [[0m[32m......[0m[31mX[0m[36m___________________________________________[0m[32m][0m 35/269
+[32myour path thus far [[0m[32m......[0m[31mX[0m[36m___________________________________________[0m[32m][0m 36/269
