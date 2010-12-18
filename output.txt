@@ -1,17 +1,17 @@
-[32mAboutStrings#test_any_ruby_expression_may_be_interpolated has expanded your awareness.[0m
-[31mAboutStrings#test_you_can_get_a_substring_from_a_string has damaged your karma.[0m
+[32mAboutStrings#test_you_can_get_a_substring_from_a_string has expanded your awareness.[0m
+[31mAboutStrings#test_you_can_get_a_single_character_from_a_string has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 60 completed.[0m
+[36m  You are progressing. Excellent. 61 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <"let">.[0m
+[31m  <"FILL ME IN"> expected but was  <97>.[0m
 
 Please meditate on the following code:
-[31m  ./about_strings.rb:138:in `test_you_can_get_a_substring_from_a_string'[0m
+[31m  ./about_strings.rb:144:in `test_you_can_get_a_single_character_from_a_string'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mmountains are merely mountains[0m
-[32myour path thus far [[0m[32m...........[0m[31mX[0m[36m______________________________________[0m[32m][0m 60/269
+[32mlearn the rules so you know how to break them properly[0m
+[32myour path thus far [[0m[32m...........[0m[31mX[0m[36m______________________________________[0m[32m][0m 61/269
