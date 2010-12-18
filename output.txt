@@ -1,17 +1,17 @@
-[32mAboutStrings#test_you_can_get_a_single_character_from_a_string has expanded your awareness.[0m
-[31mAboutStrings#test_in_ruby_1_8_single_characters_are_represented_by_integers has damaged your karma.[0m
+[32mAboutStrings#test_in_ruby_1_8_single_characters_are_represented_by_integers has expanded your awareness.[0m
+[31mAboutStrings#test_strings_can_be_split has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 62 completed.[0m
+[36m  You are progressing. Excellent. 63 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <97>.[0m
+[31m  <["FILL ME IN", "FILL ME IN", "FILL ME IN"]> expected but was  <["Sausage", "Egg", "Cheese"]>.[0m
 
 Please meditate on the following code:
-[31m  ./about_strings.rb:151:in `test_in_ruby_1_8_single_characters_are_represented_by_integers'[0m
+[31m  ./about_strings.rb:167:in `test_strings_can_be_split'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mlearn the rules so you know how to break them properly[0m
-[32myour path thus far [[0m[32m...........[0m[31mX[0m[36m______________________________________[0m[32m][0m 62/269
+[32mremember that silence is sometimes the best answer[0m
+[32myour path thus far [[0m[32m...........[0m[31mX[0m[36m______________________________________[0m[32m][0m 63/269
