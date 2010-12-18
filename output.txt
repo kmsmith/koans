@@ -1,17 +1,17 @@
-[32mAboutArrayAssignment#test_swapping_with_parallel_assignment has expanded your awareness.[0m
-[31mAboutHashes#test_creating_hashes has damaged your karma.[0m
+[32mAboutHashes#test_creating_hashes has expanded your awareness.[0m
+[31mAboutHashes#test_hash_literals has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 32 completed.[0m
+[36m  You are progressing. Excellent. 33 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <Hash>.[0m
+[31m  <"FILL ME IN"> expected but was  <2>.[0m
 
 Please meditate on the following code:
-[31m  ./about_hashes.rb:6:in `test_creating_hashes'[0m
+[31m  ./about_hashes.rb:13:in `test_hash_literals'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mlearn the rules so you know how to break them properly[0m
-[32myour path thus far [[0m[32m.....[0m[31mX[0m[36m____________________________________________[0m[32m][0m 32/269
+[32mremember that silence is sometimes the best answer[0m
+[32myour path thus far [[0m[32m......[0m[31mX[0m[36m___________________________________________[0m[32m][0m 33/269
