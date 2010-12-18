@@ -1,17 +1,17 @@
-[32mAboutStrings#test_plus_concatenation_will_leave_the_original_strings_unmodified has expanded your awareness.[0m
-[31mAboutStrings#test_plus_equals_will_concatenate_to_the_end_of_a_string has damaged your karma.[0m
+[32mAboutStrings#test_plus_equals_will_concatenate_to_the_end_of_a_string has expanded your awareness.[0m
+[31mAboutStrings#test_plus_equals_also_will_leave_the_original_string_unmodified has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 50 completed.[0m
+[36m  You are progressing. Excellent. 51 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <"Hello, World">.[0m
+[31m  <"FILL ME IN"> expected but was  <"Hello, ">.[0m
 
 Please meditate on the following code:
-[31m  ./about_strings.rb:71:in `test_plus_equals_will_concatenate_to_the_end_of_a_string'[0m
+[31m  ./about_strings.rb:79:in `test_plus_equals_also_will_leave_the_original_string_unmodified'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mmountains are merely mountains[0m
-[32myour path thus far [[0m[32m.........[0m[31mX[0m[36m________________________________________[0m[32m][0m 50/269
+[32mlearn the rules so you know how to break them properly[0m
+[32myour path thus far [[0m[32m.........[0m[31mX[0m[36m________________________________________[0m[32m][0m 51/269
