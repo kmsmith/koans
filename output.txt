@@ -1,17 +1,17 @@
-[32mAboutStrings#test_use_single_quotes_to_create_string_with_double_quotes has expanded your awareness.[0m
-[31mAboutStrings#test_use_double_quotes_to_create_strings_with_single_quotes has damaged your karma.[0m
+[32mAboutStrings#test_use_double_quotes_to_create_strings_with_single_quotes has expanded your awareness.[0m
+[31mAboutStrings#test_use_backslash_for_those_hard_cases has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 43 completed.[0m
+[36m  You are progressing. Excellent. 44 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <"Don't">.[0m
+[31m  <"FILL ME IN"> expected but was  <true>.[0m
 
 Please meditate on the following code:
-[31m  ./about_strings.rb:21:in `test_use_double_quotes_to_create_strings_with_single_quotes'[0m
+[31m  ./about_strings.rb:27:in `test_use_backslash_for_those_hard_cases'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
 [32mremember that silence is sometimes the best answer[0m
-[32myour path thus far [[0m[32m.......[0m[31mX[0m[36m__________________________________________[0m[32m][0m 43/269
+[32myour path thus far [[0m[32m........[0m[31mX[0m[36m_________________________________________[0m[32m][0m 44/269
