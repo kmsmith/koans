@@ -1,17 +1,17 @@
-[32mAboutSymbols#test_symbols_are_symbols has expanded your awareness.[0m
-[31mAboutSymbols#test_symbols_can_be_compared has damaged your karma.[0m
+[32mAboutSymbols#test_symbols_can_be_compared has expanded your awareness.[0m
+[31mAboutSymbols#test_identical_symbols_are_a_single_internal_object has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 68 completed.[0m
+[36m  You are progressing. Excellent. 69 completed.[0m
 
 The answers you seek...
-[31m  <false> is not true.[0m
+[31m  <"FILL ME IN"> expected but was  <true>.[0m
 
 Please meditate on the following code:
-[31m  ./about_symbols.rb:14:in `test_symbols_can_be_compared'[0m
+[31m  ./about_symbols.rb:22:in `test_identical_symbols_are_a_single_internal_object'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mwhen you lose, don't lose the lesson[0m
-[32myour path thus far [[0m[32m............[0m[31mX[0m[36m_____________________________________[0m[32m][0m 68/269
+[32mthings are not what they appear to be: nor are they otherwise[0m
+[32myour path thus far [[0m[32m............[0m[31mX[0m[36m_____________________________________[0m[32m][0m 69/269
