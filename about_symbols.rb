@@ -25,7 +25,7 @@ class AboutSymbols < EdgeCase::Koan
 
   def test_method_names_become_symbols
     all_symbols = Symbol.all_symbols
-    assert_equal __, all_symbols.include?(:test_method_names_become_symbols)
+    assert_equal true, all_symbols.include?(:test_method_names_become_symbols)
   end
 
   # THINK ABOUT IT:
