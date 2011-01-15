@@ -1,17 +1,17 @@
-[32mAboutSymbols#test_constants_become_symbols has expanded your awareness.[0m
-[31mAboutSymbols#test_symbols_can_be_made_from_strings has damaged your karma.[0m
+[32mAboutSymbols#test_symbols_can_be_made_from_strings has expanded your awareness.[0m
+[31mAboutSymbols#test_symbols_with_spaces_can_be_built has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 72 completed.[0m
+[36m  You are progressing. Excellent. 73 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <:catsAndDogs>.[0m
+[31m  <:"cats and dogs"> expected but was  <:"FILL ME IN">.[0m
 
 Please meditate on the following code:
-[31m  ./about_symbols.rb:47:in `test_symbols_can_be_made_from_strings'[0m
+[31m  ./about_symbols.rb:53:in `test_symbols_with_spaces_can_be_built'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mlearn the rules so you know how to break them properly[0m
-[32myour path thus far [[0m[32m.............[0m[31mX[0m[36m____________________________________[0m[32m][0m 72/269
+[32mremember that silence is sometimes the best answer[0m
+[32myour path thus far [[0m[32m.............[0m[31mX[0m[36m____________________________________[0m[32m][0m 73/269
