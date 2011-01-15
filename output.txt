@@ -1,17 +1,17 @@
-[32mAboutSymbols#test_to_s_is_called_on_interpolated_symbols has expanded your awareness.[0m
-[31mAboutSymbols#test_symbols_are_not_strings has damaged your karma.[0m
+[32mAboutSymbols#test_symbols_are_not_strings has expanded your awareness.[0m
+[31mAboutSymbols#test_symbols_do_not_have_string_methods has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 76 completed.[0m
+[36m  You are progressing. Excellent. 77 completed.[0m
 
 The answers you seek...
 [31m  <"FILL ME IN"> expected but was  <false>.[0m
 
 Please meditate on the following code:
-[31m  ./about_symbols.rb:72:in `test_symbols_are_not_strings'[0m
+[31m  ./about_symbols.rb:78:in `test_symbols_do_not_have_string_methods'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32msleep is the best meditation[0m
-[32myour path thus far [[0m[32m..............[0m[31mX[0m[36m___________________________________[0m[32m][0m 76/269
+[32mwhen you lose, don't lose the lesson[0m
+[32myour path thus far [[0m[32m..............[0m[31mX[0m[36m___________________________________[0m[32m][0m 77/269
