@@ -1,17 +1,17 @@
-[32mAboutSymbols#test_symbols_do_not_have_string_methods has expanded your awareness.[0m
-[31mAboutSymbols#test_symbols_cannot_be_concatenated has damaged your karma.[0m
+[32mAboutSymbols#test_symbols_cannot_be_concatenated has expanded your awareness.[0m
+[31mAboutSymbols#test_symbols_can_be_dynamically_created has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 78 completed.[0m
+[36m  You are progressing. Excellent. 79 completed.[0m
 
 The answers you seek...
-[31m  <FillMeInError> exception expected but was  Class: <NoMethodError>  Message: <"undefined method `+' for :cats:Symbol">  ---Backtrace---  ./about_symbols.rb:89:in `test_symbols_cannot_be_concatenated'  ---------------[0m
+[31m  <"FILL ME IN"> expected but was  <:catsdogs>.[0m
 
 Please meditate on the following code:
-[31m  ./about_symbols.rb:88:in `test_symbols_cannot_be_concatenated'[0m
+[31m  ./about_symbols.rb:94:in `test_symbols_can_be_dynamically_created'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mwhen you lose, don't lose the lesson[0m
-[32myour path thus far [[0m[32m..............[0m[31mX[0m[36m___________________________________[0m[32m][0m 78/269
+[32mthings are not what they appear to be: nor are they otherwise[0m
+[32myour path thus far [[0m[32m..............[0m[31mX[0m[36m___________________________________[0m[32m][0m 79/269
