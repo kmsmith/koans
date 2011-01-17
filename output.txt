@@ -1,17 +1,17 @@
-[32mAboutRegularExpressions#test_caret_anchors_to_the_start_of_lines has expanded your awareness.[0m
-[31mAboutRegularExpressions#test_dollar_sign_anchors_to_the_end_of_lines has damaged your karma.[0m
+[32mAboutRegularExpressions#test_dollar_sign_anchors_to_the_end_of_lines has expanded your awareness.[0m
+[31mAboutRegularExpressions#test_slash_b_anchors_to_a_word_boundary has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 98 completed.[0m
+[36m  You are progressing. Excellent. 99 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <"42">.[0m
+[31m  <"FILL ME IN"> expected but was  <"vines">.[0m
 
 Please meditate on the following code:
-[31m  ./about_regular_expressions.rb:107:in `test_dollar_sign_anchors_to_the_end_of_lines'[0m
+[31m  ./about_regular_expressions.rb:111:in `test_slash_b_anchors_to_a_word_boundary'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mwhen you lose, don't lose the lesson[0m
-[32myour path thus far [[0m[32m..................[0m[31mX[0m[36m_______________________________[0m[32m][0m 98/269
+[32mthings are not what they appear to be: nor are they otherwise[0m
+[32myour path thus far [[0m[32m..................[0m[31mX[0m[36m_______________________________[0m[32m][0m 99/269
