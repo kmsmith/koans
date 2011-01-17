@@ -1,17 +1,17 @@
-[32mAboutRegularExpressions#test_the_left_most_match_wins has expanded your awareness.[0m
-[31mAboutRegularExpressions#test_character_classes_give_options_for_a_character has damaged your karma.[0m
+[32mAboutRegularExpressions#test_character_classes_give_options_for_a_character has expanded your awareness.[0m
+[31mAboutRegularExpressions#test_slash_d_is_a_shortcut_for_a_digit_character_class has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 87 completed.[0m
+[36m  You are progressing. Excellent. 88 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <["cat", "bat", "rat"]>.[0m
+[31m  <"FILL ME IN"> expected but was  <"42">.[0m
 
 Please meditate on the following code:
-[31m  ./about_regular_expressions.rb:54:in `test_character_classes_give_options_for_a_character'[0m
+[31m  ./about_regular_expressions.rb:58:in `test_slash_d_is_a_shortcut_for_a_digit_character_class'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
 [32mwhen you lose, don't lose the lesson[0m
-[32myour path thus far [[0m[32m................[0m[31mX[0m[36m_________________________________[0m[32m][0m 87/269
+[32myour path thus far [[0m[32m................[0m[31mX[0m[36m_________________________________[0m[32m][0m 88/269
