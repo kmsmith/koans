@@ -1,17 +1,17 @@
-[32mAboutRegularExpressions#test_slash_b_anchors_to_a_word_boundary has expanded your awareness.[0m
-[31mAboutRegularExpressions#test_parentheses_group_contents has damaged your karma.[0m
+[32mAboutRegularExpressions#test_parentheses_group_contents has expanded your awareness.[0m
+[31mAboutRegularExpressions#test_parentheses_also_capture_matched_content_by_number has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 100 completed.[0m
+[36m  You are progressing. Excellent. 101 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <"hahaha">.[0m
+[31m  <"FILL ME IN"> expected but was  <"Gray">.[0m
 
 Please meditate on the following code:
-[31m  ./about_regular_expressions.rb:117:in `test_parentheses_group_contents'[0m
+[31m  ./about_regular_expressions.rb:123:in `test_parentheses_also_capture_matched_content_by_number'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mmountains are merely mountains[0m
-[32myour path thus far [[0m[32m..................[0m[31mX[0m[36m_______________________________[0m[32m][0m 100/269
+[32mlearn the rules so you know how to break them properly[0m
+[32myour path thus far [[0m[32m..................[0m[31mX[0m[36m_______________________________[0m[32m][0m 101/269
