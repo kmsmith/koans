@@ -1,17 +1,17 @@
-[32mAboutRegularExpressions#test_slash_s_is_a_shortcut_for_a_whitespace_character_class has expanded your awareness.[0m
-[31mAboutRegularExpressions#test_slash_w_is_a_shortcut_for_a_word_character_class has damaged your karma.[0m
+[32mAboutRegularExpressions#test_slash_w_is_a_shortcut_for_a_word_character_class has expanded your awareness.[0m
+[31mAboutRegularExpressions#test_period_is_a_shortcut_for_any_non_newline_character has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 91 completed.[0m
+[36m  You are progressing. Excellent. 92 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <"variable_1">.[0m
+[31m  <"FILL ME IN"> expected but was  <"abc">.[0m
 
 Please meditate on the following code:
-[31m  ./about_regular_expressions.rb:72:in `test_slash_w_is_a_shortcut_for_a_word_character_class'[0m
+[31m  ./about_regular_expressions.rb:77:in `test_period_is_a_shortcut_for_any_non_newline_character'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
 [32mlearn the rules so you know how to break them properly[0m
-[32myour path thus far [[0m[32m................[0m[31mX[0m[36m_________________________________[0m[32m][0m 91/269
+[32myour path thus far [[0m[32m.................[0m[31mX[0m[36m________________________________[0m[32m][0m 92/269
