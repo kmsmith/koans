@@ -1,17 +1,17 @@
-[32mAboutRegularExpressions#test_a_failed_match_returns_nil has expanded your awareness.[0m
-[31mAboutRegularExpressions#test_question_mark_means_optional has damaged your karma.[0m
+[32mAboutRegularExpressions#test_question_mark_means_optional has expanded your awareness.[0m
+[31mAboutRegularExpressions#test_plus_means_one_or_more has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 83 completed.[0m
+[36m  You are progressing. Excellent. 84 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <"ab">.[0m
+[31m  <"FILL ME IN"> expected but was  <"bccc">.[0m
 
 Please meditate on the following code:
-[31m  ./about_regular_expressions.rb:20:in `test_question_mark_means_optional'[0m
+[31m  ./about_regular_expressions.rb:25:in `test_plus_means_one_or_more'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
 [32mremember that silence is sometimes the best answer[0m
-[32myour path thus far [[0m[32m...............[0m[31mX[0m[36m__________________________________[0m[32m][0m 83/269
+[32myour path thus far [[0m[32m...............[0m[31mX[0m[36m__________________________________[0m[32m][0m 84/269
