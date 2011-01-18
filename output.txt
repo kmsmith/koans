@@ -1,17 +1,17 @@
-[32mAboutMethods#test_calling_global_methods_with_wrong_number_of_arguments has expanded your awareness.[0m
-[31mAboutMethods#test_calling_with_default_values has damaged your karma.[0m
+[32mAboutMethods#test_calling_with_default_values has expanded your awareness.[0m
+[31mAboutMethods#test_calling_with_variable_arguments has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 111 completed.[0m
+[36m  You are progressing. Excellent. 112 completed.[0m
 
 The answers you seek...
-[31m  <[1, "FILL ME IN"]> expected but was  <[1, :default_value]>.[0m
+[31m  <"FILL ME IN"> expected but was  <[]>.[0m
 
 Please meditate on the following code:
-[31m  ./about_methods.rb:54:in `test_calling_with_default_values'[0m
+[31m  ./about_methods.rb:65:in `test_calling_with_variable_arguments'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
 [32mlearn the rules so you know how to break them properly[0m
-[32myour path thus far [[0m[32m....................[0m[31mX[0m[36m_____________________________[0m[32m][0m 111/269
+[32myour path thus far [[0m[32m....................[0m[31mX[0m[36m_____________________________[0m[32m][0m 112/269
