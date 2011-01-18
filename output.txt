@@ -1,17 +1,17 @@
-[32mAboutMethods#test_calling_methods_in_same_class_with_explicit_receiver has expanded your awareness.[0m
-[31mAboutMethods#test_calling_private_methods_without_receiver has damaged your karma.[0m
+[32mAboutMethods#test_calling_private_methods_without_receiver has expanded your awareness.[0m
+[31mAboutMethods#test_calling_private_methods_with_an_explicit_receiver has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 117 completed.[0m
+[36m  You are progressing. Excellent. 118 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <"a secret">.[0m
+[31m  <FillMeInError> exception expected but was  Class: <NoMethodError>  Message: <"private method `my_private_method' called for #<AboutMethods:0x100300470>">  ---Backtrace---  ./about_methods.rb:120:in `test_calling_private_methods_with_an_explicit_receiver'  ---------------[0m
 
 Please meditate on the following code:
-[31m  ./about_methods.rb:115:in `test_calling_private_methods_without_receiver'[0m
+[31m  ./about_methods.rb:119:in `test_calling_private_methods_with_an_explicit_receiver'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
 [32mwhen you lose, don't lose the lesson[0m
-[32myour path thus far [[0m[32m.....................[0m[31mX[0m[36m____________________________[0m[32m][0m 117/269
+[32myour path thus far [[0m[32m.....................[0m[31mX[0m[36m____________________________[0m[32m][0m 118/269
