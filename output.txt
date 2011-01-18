@@ -1,17 +1,17 @@
-[32mAboutMethods#test_calling_private_methods_with_an_explicit_receiver has expanded your awareness.[0m
-[31mAboutMethods#test_calling_methods_in_other_objects_require_explicit_receiver has damaged your karma.[0m
+[32mAboutMethods#test_calling_methods_in_other_objects_require_explicit_receiver has expanded your awareness.[0m
+[31mAboutMethods#test_calling_private_methods_in_other_objects has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 119 completed.[0m
+[36m  You are progressing. Excellent. 120 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <"Fido">.[0m
+[31m  <FillMeInError> exception expected but was  Class: <NoMethodError>  Message: <"private method `tail' called for #<AboutMethods::Dog:0x100168158>">  ---Backtrace---  ./about_methods.rb:147:in `test_calling_private_methods_in_other_objects'  ---------------[0m
 
 Please meditate on the following code:
-[31m  ./about_methods.rb:141:in `test_calling_methods_in_other_objects_require_explicit_receiver'[0m
+[31m  ./about_methods.rb:146:in `test_calling_private_methods_in_other_objects'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mthings are not what they appear to be: nor are they otherwise[0m
-[32myour path thus far [[0m[32m......................[0m[31mX[0m[36m___________________________[0m[32m][0m 119/269
+[32mmountains are merely mountains[0m
+[32myour path thus far [[0m[32m......................[0m[31mX[0m[36m___________________________[0m[32m][0m 120/269
