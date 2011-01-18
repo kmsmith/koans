@@ -1,17 +1,19 @@
-[32mAboutMethods#test_calling_global_methods has expanded your awareness.[0m
-[31mAboutMethods#test_calling_global_methods_without_parentheses has damaged your karma.[0m
+[32mAboutMethods#test_calling_global_methods_without_parentheses has expanded your awareness.[0m
+[31mAboutMethods#test_sometimes_missing_parentheses_are_ambiguous has damaged your karma.[0m
 
 The Master says:
 [36m  You have not yet reached enlightenment.[0m
-[36m  You are progressing. Excellent. 108 completed.[0m
+[36m  You are progressing. Excellent. 109 completed.[0m
 
 The answers you seek...
-[31m  <"FILL ME IN"> expected but was  <5>.[0m
+[31m  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/test/unit/assertions.rb:48:in `assert_block': <"FILL ME IN"> expected but was  <5>.[0m
 
 Please meditate on the following code:
-[31m  ./about_methods.rb:15:in `test_calling_global_methods_without_parentheses'[0m
+[31m  ./about_methods.rb:21:in `test_sometimes_missing_parentheses_are_ambiguous'[0m
+[36m  (eval):1:in `test_sometimes_missing_parentheses_are_ambiguous'[0m
+[36m  ./about_methods.rb:21:in `test_sometimes_missing_parentheses_are_ambiguous'[0m
 [36m  path_to_enlightenment.rb:37:in `each_with_index'[0m
 [36m  path_to_enlightenment.rb:37[0m
 
-[32mwhen you lose, don't lose the lesson[0m
-[32myour path thus far [[0m[32m....................[0m[31mX[0m[36m_____________________________[0m[32m][0m 108/269
+[32mthings are not what they appear to be: nor are they otherwise[0m
+[32myour path thus far [[0m[32m....................[0m[31mX[0m[36m_____________________________[0m[32m][0m 109/269
